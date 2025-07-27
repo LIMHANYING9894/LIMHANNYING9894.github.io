@@ -9,6 +9,5 @@ redirect_from:
 
 # 盗版鱿化叉烧包官网
 
-盗版鱿化叉烧包官网
 
 [原作者](https://space.bilibili.com/482521515)
